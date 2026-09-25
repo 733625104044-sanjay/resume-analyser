@@ -1,0 +1,99 @@
+
+ TalentPulse AI – Smart ATS Resume Analyzer & Intelligent Job Matching Suite
+
+**TalentPulse AI** is a state-of-the-art web application designed to empower candidates with deep AI resume parsing, ATS scoring, precision job matching, Google X-Y-Z bullet rewrites, and tailored interview coaching.
+
+---
+
+## 🌟 Key Features
+
+1. **AI Resume Parser & Ingestion Hub**
+   - Drag & drop PDF/DOCX/TXT upload or instant paste.
+   - Client-side PDF text extraction powered by PDF.js.
+   - Instant tokenization and extraction of skills, metrics, action verbs, contact details, and career timeline.
+
+2. **ATS Compatibility & Diagnostics Engine**
+   - Dynamic 0–100 ATS Score circular gauge with sub-score breakdown (Action Verbs, Quantifiable Metrics, Skills Density, Structure & Contact, Brevity).
+   - Interactive Competency Radar Chart powered by Chart.js.
+   - Categorized Skills Cloud with frequency tracking.
+   - Automated Red Flags, High-Impact Recommendations, and Strengths breakdown.
+
+3. **Job Description Comparator & Fit Scorer**
+   - Direct comparison against any custom job description or curated top-tier roles (Stripe, OpenAI partner, Datadog, Vercel, HashiCorp).
+   - Computes Match Fit %, Matched Skills, and Missing Critical Keywords.
+   - Experience & Seniority alignment diagnostics.
+
+4. **Dynamic Matched Jobs Explorer**
+   - Live jobs board automatically scored and ranked against the candidate's active credentials.
+   - Category filtering across Software Engineering, AI/ML, Product, and Cloud/DevOps.
+   - 1-Click "Compare in JD Matcher" and "Generate Tailored Cover Letter".
+
+5. **AI Bullet Point Optimizer (Google X-Y-Z Formula)**
+   - Transforms weak bullet points into high-converting metrics-driven statements: *"Accomplished [X], as measured by [Y], by doing [Z]"*.
+   - Generates 3 specialized variants: High Impact & Metrics, Leadership & Velocity, Deep Technical Depth.
+
+6. **AI Cover Letter Generator & Mock Interview Coach**
+   - Generates tailored cover letters with tone customization (Impact-Driven, Executive, Startup).
+   - Generates role-specific behavioral & technical questions based on resume skill gaps.
+   - Interactive practice answering with instant AI rubric evaluation and keyword detection.
+
+---
+
+## 🚀 How to Run
+
+Simply open `index.html` in any modern web browser, or run a lightweight local server:
+
+```bash
+# Python 3
+python -m http.server 8080
+```
+Then visit [http://localhost:8080](http://localhost:8080) in your browser.
+ TalentPulse AI – Smart ATS Resume Analyzer & Intelligent Job Matching Suite
+
+**TalentPulse AI** is a state-of-the-art web application designed to empower candidates with deep AI resume parsing, ATS scoring, precision job matching, Google X-Y-Z bullet rewrites, and tailored interview coaching.
+
+---
+
+## 🌟 Key Features
+
+1. **AI Resume Parser & Ingestion Hub**
+   - Drag & drop PDF/DOCX/TXT upload or instant paste.
+   - Client-side PDF text extraction powered by PDF.js.
+   - Instant tokenization and extraction of skills, metrics, action verbs, contact details, and career timeline.
+
+2. **ATS Compatibility & Diagnostics Engine**
+   - Dynamic 0–100 ATS Score circular gauge with sub-score breakdown (Action Verbs, Quantifiable Metrics, Skills Density, Structure & Contact, Brevity).
+   - Interactive Competency Radar Chart powered by Chart.js.
+   - Categorized Skills Cloud with frequency tracking.
+   - Automated Red Flags, High-Impact Recommendations, and Strengths breakdown.
+
+3. **Job Description Comparator & Fit Scorer**
+   - Direct comparison against any custom job description or curated top-tier roles (Stripe, OpenAI partner, Datadog, Vercel, HashiCorp).
+   - Computes Match Fit %, Matched Skills, and Missing Critical Keywords.
+   - Experience & Seniority alignment diagnostics.
+
+4. **Dynamic Matched Jobs Explorer**
+   - Live jobs board automatically scored and ranked against the candidate's active credentials.
+   - Category filtering across Software Engineering, AI/ML, Product, and Cloud/DevOps.
+   - 1-Click "Compare in JD Matcher" and "Generate Tailored Cover Letter".
+
+5. **AI Bullet Point Optimizer (Google X-Y-Z Formula)**
+   - Transforms weak bullet points into high-converting metrics-driven statements: *"Accomplished [X], as measured by [Y], by doing [Z]"*.
+   - Generates 3 specialized variants: High Impact & Metrics, Leadership & Velocity, Deep Technical Depth.
+
+6. **AI Cover Letter Generator & Mock Interview Coach**
+   - Generates tailored cover letters with tone customization (Impact-Driven, Executive, Startup).
+   - Generates role-specific behavioral & technical questions based on resume skill gaps.
+   - Interactive practice answering with instant AI rubric evaluation and keyword detection.
+
+---
+
+## 🚀 How to Run
+
+Simply open `index.html` in any modern web browser, or run a lightweight local server:
+
+```bash
+# Python 3
+python -m http.server 8080
+```
+Then visit [http://localhost:8080](http://localhost:8080) in your browser.
